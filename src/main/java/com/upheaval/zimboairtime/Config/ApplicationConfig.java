@@ -1,4 +1,4 @@
-package com.upheaval.zimboairtime.config;
+package com.upheaval.zimboairtime.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
